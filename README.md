@@ -2,10 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <br>
-<img src="" width="100%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shivanigupta19/Github-finder/blob/master/images/1.png" width="75%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <br>
-<img src="" width="100%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shivanigupta19/Github-finder/blob/master/images/2.png" width="75%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<br>
+<img src="https://github.com/shivanigupta19/Github-finder/blob/master/images/3.png" width="75%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<br>
+<img src="https://github.com/shivanigupta19/Github-finder/blob/master/images/about.png" width="75%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 ## Available Scripts
 
