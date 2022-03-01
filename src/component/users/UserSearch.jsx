@@ -19,8 +19,11 @@ function UserSearch() {
             dispatch({type : 'SET_LOADING'})
             const users = await searchUsers(text)
             dispatch({type : 'GET_USERS' , payload : users})
-            setText('')
         }
+    }
+    const clearUser = () => {
+         dispatch({type : 'CLEAR_USERS'})
+         setText('')
     }
 
     return (
@@ -44,7 +47,7 @@ function UserSearch() {
             </div>
             {users.length > 0 &&
             <div>
-                <button onClick={() => dispatch({type : 'CLEAR_USERS'})} className='btn btn-ghost btn-lg' >
+                <button onClick={clearUser} className='btn btn-ghost btn-lg' >
                     clear</button>
             </div>
 }
