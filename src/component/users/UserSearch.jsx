@@ -35,7 +35,8 @@ function UserSearch() {
                              value={text}
                              onChange={handleChange}
                              />
-                             <button className='absolute top-0 right-0 rounded-l-none w-36 btn btn-lg text-yellow-600' 
+                             <button className='absolute top-0 right-0 rounded-l-none w-36 btn btn-lg 
+                             text-yellow-600' 
                              type='submit'>Go</button>
                          </div>
                      </div>
@@ -43,9 +44,8 @@ function UserSearch() {
             </div>
             {users.length > 0 &&
             <div>
-                <button className='btn btn-ghost btn-lg' onClick={() => dispatch({
-        type : 'CLEAR_USERS',
-        })}>clear</button>
+                <button onClick={() => dispatch({type : 'CLEAR_USERS'})} className='btn btn-ghost btn-lg' >
+                    clear</button>
             </div>
 }
         </div>
