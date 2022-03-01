@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>Link to this app : https://github-finder-tan-omega.vercel.app/</br>
 <br>
 <img src="https://github.com/shivanigupta19/Github-finder/blob/master/images/1.png" width="75%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
